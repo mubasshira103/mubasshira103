@@ -1,5 +1,7 @@
-[Uploading WhatsApp Image 2026-04-08 at 1.30.02 PM.jpeg…]()
 
+<p align="center">
+  <img src="[Uploading WhatsApp Image 2026-04-08 at 1.30.02 PM.jpeg…]()" alt="Khadija Mubasshira Banner" width="100%">
+</p>
 
 # 👋 Hi there, I'm KHADIJA MUBASSHIRA!
 
