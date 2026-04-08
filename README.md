@@ -1,4 +1,4 @@
-![Uploading WhatsApp Image 2026-04-08 at 1.30.02 PM.jpeg…]()
+[Uploading WhatsApp Image 2026-04-08 at 1.30.02 PM.jpeg…]()
 
 
 # 👋 Hi there, I'm KHADIJA MUBASSHIRA!
