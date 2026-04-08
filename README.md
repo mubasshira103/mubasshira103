@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="[Uploading WhatsApp Image 2026-04-08 at 1.30.02 PM.jpeg…]()" alt="Khadija Mubasshira Banner" width="100%">
-</p><img width="1792" height="592" alt="Gemini_Generated_Image_nyci28nyci28nyci" src="https://github.com/user-attachments/assets/b6781da2-e8c7-4631-bed2-08d75f054418" />
+><img width="1792" height="592" alt="Gemini_Generated_Image_nyci28nyci28nyci" src="https://github.com/user-attachments/assets/b6781da2-e8c7-4631-bed2-08d75f054418" />
 
 
 # 👋 Hi there, I'm KHADIJA MUBASSHIRA!
