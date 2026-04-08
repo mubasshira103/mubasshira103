@@ -1,9 +1,6 @@
 <!-- 🔥 Banner Image -->
-![WhatsApp Image 2026-04-08 at 12 56 27 PM](https://github.com/user-attachments/assets/684d20a4-ae34-49cd-a510-bfe9b35f7e61)
 
-<p align="center">
-  <img src="https://your-banner-image-link.com" alt="banner" />
-</p>
+
 
 <!-- 👤 Name & Designation -->
 <h1 align="center">Hi 👋, I'm Khadija Mubasshira</h1>
