@@ -2,8 +2,6 @@
 ><img width="1792" height="592" alt="Gemini_Generated_Image_nyci28nyci28nyci" src="https://github.com/user-attachments/assets/b6781da2-e8c7-4631-bed2-08d75f054418" />
 
 
-# 👋 Hi there, I'm KHADIJA MUBASSHIRA!
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hello%2C+There+!;I'm+khadija+mubasshira....;Nice+to+Meet+You+😊" alt="Typing SVG" />
@@ -18,8 +16,8 @@
 ### 🚀 Full Stack Web Developer | Expert in JavaScript, React, Node.js, and Tailwind CSS | Crafting High-Performance Web Applications with MongoDB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('')
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokman1313)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokmanhossenjoy13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]('')
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]('')
 
 </div>
 
@@ -56,7 +54,7 @@
 ### ⌨️ My Coding Activity:
 
 ```javascript
-const lokmanHossen = {
+const mubasshira = {
     pronouns: "he/him",
     code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
     tools: ["Node.js", "Express",  "Next", "MongoDB", "Git"],
