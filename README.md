@@ -41,7 +41,7 @@
 
 ---
 
-<h1 align="center"> 🔥 Languages & Frameworks & Tools 🔥</h1
+<h1 align="center"> 🔥 Languages & Frameworks & Tools 🔥</h1>
 
 ---
 
@@ -55,7 +55,7 @@
 
 ```javascript
 const mubasshira = {
-    pronouns: "he/him",
+    pronouns: "she/hem",
     code: ["JavaScript", "React", "HTML", "CSS", "Tailwind CSS"],
     tools: ["Node.js", "Express",  "Next", "MongoDB", "Git"],
     architecture: ["MERN Stack", "REST APIs","FULL Stack", "Frontend Design"],
